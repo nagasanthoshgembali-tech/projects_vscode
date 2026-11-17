@@ -1,0 +1,10 @@
+bs
+a.out
+*.exe
+tempCodeRunnerFile.c
+binary_search_non_recurrsive
+binary_search_recurrsive_withsort
+infix_to_postfix
+insertion_sort
+list
+.vscode/
